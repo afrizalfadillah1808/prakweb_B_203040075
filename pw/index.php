@@ -161,7 +161,7 @@ $buku = query("SELECT * FROM buku");
 
               <div class="col m4 s12">
                   <img src="https://img.icons8.com/metro/26/000000/phone-disconnected.png"/>
-                  <p>+62 8211 3739 560</p>
+                  <p>+62 851 6149 1814</p>
               </div>
            </div> 
           </div>
