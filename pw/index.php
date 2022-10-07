@@ -86,6 +86,7 @@ $buku = query("SELECT * FROM buku");
           <p>Selain memberikan informasi buku-buku menarik kepada Anda, 
           Anda juga bisa ikut serta dalam pengembangan website ini dengan memberikan rekomendasi buku-buku anda kepada pengunjung website ini melalui laman registrasi di bawah ini, 
           Ayo bergabung! kita bangun website ini agar lebih keren dan menarik. </p>
+          <button class="waves-effect waves-light blue darken-4 btn-large right"><a href="php/registrasi.php" style="text-decoration: none; color: white;">Ayo Bergabung !!</a></button>
         </div>
         <div class="col s6 light">
           <img src="assets/bg/read2.jpg" style="height: 12cm; weight: 15cm; position: right;">
