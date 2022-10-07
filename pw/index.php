@@ -151,7 +151,7 @@ $buku = query("SELECT * FROM buku");
            <div class="row">
             <div class="col m4 s12">
                   <img src="https://img.icons8.com/metro/26/000000/home.png"/>
-                  <p>Jl. Gunung Kencana 1 no.202 rt 06/06 kelurahan Ciumbuleuit kecamatan Cidadap Kota Bandung, Jawa Barat</p>
+                  <p>Jl. Gunung Kencana 1 no.202 rt 06/06 kelurahan Ciumbuleuit kecamatan Cidadap Kota Bandung, Jawa Barat 40142</p>
               </div>
 
               <div class="col m4 s12">
